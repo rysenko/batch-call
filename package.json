@@ -1,0 +1,19 @@
+{
+  "name": "batch-call",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rysenko/batch-call.git"
+  },
+  "dependencies": {
+    "request": "~2.53.0"
+  },
+  "devDependencies": {
+    "express": "~4.11.2",
+    "mocha": "~2.1.0"
+  },
+  "main": "lib/call.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  }
+}
