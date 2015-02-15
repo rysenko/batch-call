@@ -5,7 +5,7 @@ Batch Call Wrapper
 
 This uses [request](https://github.com/request/request) inside and allows to wrap several calls into one batch.
 
-See this server-side example:
+Server-side example:
 
 ```javascript
 require('express').all('/batch', require('batch-call')).listen(3000);

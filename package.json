@@ -1,6 +1,7 @@
 {
   "name": "batch-call",
-  "version": "0.1.0",
+  "description": "Batch Call Wrapper",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/rysenko/batch-call.git"
